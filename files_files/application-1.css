@@ -10539,7 +10539,7 @@ body#spring .related-resources {
 
 body#home .content {
     padding: 200px 0 160px;
-    background: url(../images/bg-3.jpg) no-repeat top center #0e161a;
+    background: url(../images/bg-6.jpg) no-repeat center -45px #0e161a;
     background-size: cover
 }
 
@@ -10763,7 +10763,7 @@ body#home #ge .text {
 }
 
 body#home #humana {
-    background: url(https://d1fto35gcfffzn.cloudfront.net/images/home/bg-humana-30.jpg) no-repeat center #fff
+    background: url(../images/bg-trade-1.jpg) no-repeat center #fff
 }
 
 body#home #discover {

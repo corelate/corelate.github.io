@@ -119,3 +119,97 @@
 #architecture {
 	padding: 80px 0 50px;
 }
+
+body#home #Corelatemoments {
+    padding: 1px 0 60px;
+}
+
+.whitearrowdown a i, .whitearrowdown {
+    color: white;
+    font-size: 30px;
+}
+
+body#home .Corelatemoment .text {
+    max-width: 650px;
+}
+
+body#home .Corelatemoment .container {
+    width: -moz-max-content;
+}
+
+.trade-overview {
+    margin: 0 auto;
+    max-width: 600px;
+    padding-bottom: 20px;
+		text-align: center;
+}
+
+.trade-overview-head {
+		margin: 15px 0;
+}
+
+body#home .Corelatemoment {
+    padding: 125px 0 100px;
+}
+
+.usecases .usecase {
+    border-bottom: 1px solid #ececec;
+    display: inline-block;
+    padding: 70px 0 50px;
+    width: 100%;
+}
+
+.usecases .usecase:nth-child(5) {
+    border-bottom: none;
+}
+
+.usecases .usecase .container {
+    max-width: 911px;
+}
+
+.usecases .usecase img, .usecases .usecase .text {
+    float: left;
+}
+
+.usecases .usecase img {
+    margin-right: 80px;
+}
+
+.usecases .usecase .text {
+    max-width: 550px;
+}
+
+.usecases .usecase img, .usecases .usecase .text {
+    float: left;
+}
+
+.usecases .usecase:nth-child(2) img, .usecases .usecase:nth-child(4) img {
+    float: right;
+}
+
+.usecases .usecase:first-child .text {
+    max-width: 580px;
+}
+
+.usecases .usecase .h4 {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.usecases .usecase p {
+    font-size: 18px;
+}
+
+.features-trade {
+    background: url(../images/bg-4.jpg) no-repeat 0 -120px;
+    background-size: cover;
+}
+
+#footer {
+    padding: 0;
+}
+
+.bg-swirl {
+    background-image: -moz-linear-gradient(148deg, #154d55 0%, #1b2441 100%);
+		color: white;
+}
