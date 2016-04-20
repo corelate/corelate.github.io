@@ -1,0 +1,104 @@
+#whatdoesitmean {
+    background: #f7f7f7 none repeat scroll 0 0;
+    padding: 80px 0 50px;
+}
+
+#whatdoesitmean .intro {
+    margin: 20px auto 30px;
+    max-width: 635px;
+    padding: 0 20px;
+}
+
+#whatdoesitmean .fifty {
+    text-align: center;
+}
+.fifty:nth-child(2n+1) {
+    margin-right: -4px;
+}
+.fifty {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+
+#whatdoesitmean .fifty {
+    text-align: center;
+}
+
+#whatdoesitmean .fifty .inner {
+    padding: 30px 70px;
+}
+
+#whatdoesitmean .fifty .inner .icon {
+    margin-bottom: 30px;
+}
+
+#sections .technologies {
+    padding: 0 0 30px;
+}
+#sections .section {
+    padding: 0 0 80px;
+}
+.technologies {
+    background-image: -moz-linear-gradient(148deg, #00c3cf 0%, #1e84c5 100%);
+    color: white;
+}
+
+#sections .h2 {
+    margin: 0 0 25px;
+    text-align: center;
+}
+
+.technologies .h2 {
+    color: white;
+    float: left;
+    font-weight: 100;
+    margin: 0 auto !important;
+    max-width: 700px;
+    padding: 70px 0 0;
+}
+
+.technologies .h4 {
+    color: white;
+    float: left;
+    font-family: "Proxima Nova",sans-serif;
+    margin: 20px auto;
+    max-width: 849px;
+    text-align: left;
+}
+
+.technologies li {
+    display: inline-block;
+    list-style: outside none none;
+    padding: 20px 15px;
+    text-align: center;
+    vertical-align: top;
+    width: 30%;
+}
+
+.features .center {
+    float: right;
+    width: 65%;
+}
+
+.features .features-div {
+    float: left;
+    width: 30%;
+}
+
+.features .feature {
+    width: 100%;
+}
+.usecase {
+    padding: 0 50px 0 0;
+    vertical-align: top;
+    width: 30%;
+}
+.sidebyside {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.feature .h4, .usecase .h4 {
+    font-weight: 400;
+}
