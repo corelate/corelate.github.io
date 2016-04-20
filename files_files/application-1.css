@@ -278,7 +278,7 @@ input[type='submit']:hover {
 }
 
 .bg-smint {
-    background: #059a91 !important
+    background: #123348 !important
 }
 
 .bg-lightgrey {
@@ -10608,7 +10608,9 @@ body#home #innovation .container {
 }
 
 body#home #focus {
-    background: #0e161a
+    padding: 200px 0 160px;
+    background: url(../images/bg-4.jpg) no-repeat top center #0e161a;
+    background-size: cover
 }
 
 body#home #focus .container {

@@ -63,7 +63,7 @@
     float: left;
     font-family: "Proxima Nova",sans-serif;
     margin: 20px auto;
-    max-width: 849px;
+    width: 100%;
     text-align: left;
 }
 
@@ -101,4 +101,21 @@
 
 .feature .h4, .usecase .h4 {
     font-weight: 400;
+}
+
+#concepts .concept img {
+    max-height: 80px;
+    max-width: 80px;
+}
+
+#concepts .concept {
+    width: 19.7%;
+}
+
+#concepts .concept p {
+    max-width: 85%;
+}
+
+#architecture {
+	padding: 80px 0 50px;
 }
