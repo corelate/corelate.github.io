@@ -41,6 +41,7 @@
 }
 .technologies {
     background-image: -moz-linear-gradient(148deg, #00c3cf 0%, #1e84c5 100%);
+    background-image: -webkit-linear-gradient(148deg, #00c3cf 0%, #1e84c5 100%);
     color: white;
 }
 
