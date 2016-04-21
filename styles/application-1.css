@@ -26233,8 +26233,14 @@ header .fa-caret-down {
     }
     .navbar {
         background: #123348;
-        height: 100px
+        height: 62px
     }
+		.nav {
+		    top: 62px;
+		}
+		.corelate-logo img {
+		    padding: 15px 28px 15px 20px;
+		}
     .nav li {
         display: none;
         background: #243640;
