@@ -344,3 +344,7 @@ body#home .Corelatemoment {
 		background-image: -webkit-linear-gradient(148deg, #154d55 0%, #1b2441 100%);
 		color: white;
 }
+
+body#home #contact {
+    margin-top: 1px;
+}
