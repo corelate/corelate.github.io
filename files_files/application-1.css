@@ -10842,6 +10842,9 @@ body#home #bridge .overlay .city {
 body#home #contact {
     padding: 0;
 }
+body#home #demo{
+    padding: 80px 0;
+}
 
 body#home #contact .cta {
     margin-top: 10px;
