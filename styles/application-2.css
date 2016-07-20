@@ -346,5 +346,14 @@ body#home .Corelatemoment {
 }
 
 body#home #contact {
+    background: #fff;
     margin-top: 1px;
 }
+#contact h1{
+    padding: 36px 0;
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+
