@@ -289,7 +289,7 @@ body#home .Corelatemoment {
     width: 100%;
 }
 
-.usecases .usecase:nth-child(5) {
+.usecases .usecase:nth-child(9) {
     border-bottom: none;
 }
 
@@ -313,7 +313,11 @@ body#home .Corelatemoment {
     float: left;
 }
 
-.usecases .usecase:nth-child(2) img, .usecases .usecase:nth-child(4) img {
+.usecases .usecase:nth-child(2) img,
+.usecases .usecase:nth-child(4) img,
+.usecases .usecase:nth-child(6) img,
+.usecases .usecase:nth-child(8) img,
+.usecases .usecase:nth-child(10) img {
     float: right;
 }
 
@@ -355,4 +359,3 @@ body#home #contact {
 .text-center{
     text-align: center;
 }
-
